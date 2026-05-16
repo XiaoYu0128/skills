@@ -1,0 +1,3 @@
+display_name: Project Dev Governance
+short_description: Project dev governance playbook
+default_prompt: Use this skill to organize development requirements, pre-development materials, iteration plans, change control, and delivery governance for a software project.
